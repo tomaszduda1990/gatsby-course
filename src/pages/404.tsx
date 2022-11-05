@@ -1,5 +1,11 @@
 import React from 'react';
+import Nav from '../components/Nav';
 
 export default function NotFoundPage(): JSX.Element {
-  return <div>404</div>;
+  return (
+    <>
+      <Nav />
+      <div>Home</div>
+    </>
+    );
 }
