@@ -17,6 +17,7 @@ const config: GatsbyConfig = {
     }
   }
 }]
+
 };
 
 export default config;

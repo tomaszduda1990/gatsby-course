@@ -3,6 +3,7 @@ import styled from 'styled-components';
 
 import GlobalStyles from '../styles/GlobalStyles';
 import Typography from '../styles/Typography';
+
 import Footer from './Footer';
 import Nav from './Nav';
 import stripes from '../assets/images/stripes.svg';
