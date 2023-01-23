@@ -22,6 +22,7 @@ const config: GatsbyConfig = {
       include: `/svg/`
     }
   }
+<<<<<<< HEAD
 }, 
 {
   resolve: 'gatsby-source-sanity',
@@ -33,6 +34,10 @@ const config: GatsbyConfig = {
   }
 }
 ]
+=======
+}]
+
+>>>>>>> 8bfc0297107c61b7444d01f814f8dc2d5bf1bdac
 };
 
 export default config;
